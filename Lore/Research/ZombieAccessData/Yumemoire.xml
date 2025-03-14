@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE vymmap>
+
+<vymmap  version="2.6.11" author="unknown user" title="" comment="" date="2025-02-05" branchCount="45" backgroundColor="#5f5f5f" defaultFont="Ubuntu,16,-1,5,50,0,0,0,0,0" selectionColor="#52684c" linkStyle="StylePolyParabel" linkColor="#686a47" defXLinkColor="#3232ff" defXLinkWidth="1" defXLinkPenStyle="Qt::DashLine" defXLinkStyleBegin="HeadFull" defXLinkStyleEnd="HeadFull" mapZoomFactor="1" mapRotationAngle="0">
+    <mapcenter absPosX="-253.947" absPosY="-4.80731" hideLink="false" uuid="{85875551-7185-4ec6-ba3c-140a5e96f3f5}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Yumemoire</heading>
+        <frame  frameType="Rectangle" penColor="#3d1617" brushColor="#52684c" padding="0" borderWidth="1" />
+        <branch relPosX="160.561" relPosY="-144.463" hideLink="false" uuid="{3b574c9c-483b-4f46-8e36-b608d309ce62}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human Access Points</heading>
+            <branch hideLink="false" uuid="{236a7a57-abe3-4a8e-ac28-841453f2e9c0}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human Hotels</heading>
+            </branch>
+            <branch hideLink="false" uuid="{d3a8b975-6cc7-4a51-9cc1-13e6ec5c913e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human Shoe Repair Shops</heading>
+            </branch>
+            <branch hideLink="false" uuid="{cfce4a71-78de-4c36-b5fc-a32b1c215dba}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000"></heading>
+            </branch>
+            <branch hideLink="false" uuid="{199faa10-e8ff-4a6f-a8dc-070c380c279b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human Armoury</heading>
+            </branch>
+        </branch>
+        <branch relPosX="147.888" relPosY="134.552" hideLink="false" uuid="{412ad068-de06-416f-8f32-02b2cb1858b3}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Access Points</heading>
+            <branch hideLink="false" uuid="{ee1b9b73-e668-4e69-b02a-6eaf0e3f88c3}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Graveyards</heading>
+                <branch hideLink="false" uuid="{36bce530-15b8-4b19-a061-cec4cb8427fe}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If Zombie has Zombie Yen, allow rest at expense for regaining normal health.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{8e68205f-e484-4431-93ef-e0b60bb4ac2e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif Zombie has no zombie yen, suggest that zombie cannot rest until its collected enough souls.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{d1a1c018-49db-45ba-9164-4b7db2d80680}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Shoe Repair Shops</heading>
+                <branch hideLink="false" uuid="{e0b54db1-7379-4fef-bf87-87b568c0ad53}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Zombie Francs, allow for repairing zombie shoes with demon's flesh.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{5db8281b-23f4-4b57-b62d-76b35490c65e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough zombie Francs, must earn enough Zombie Francs to repair zombie clogs.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{d8b49e19-2bb9-4f8d-b497-5304db2d1a46}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Armoury Shop</heading>
+                <branch hideLink="false" uuid="{2f76e05d-2ae6-4258-b626-263aed093747}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Zombie Lunario, allow for Zombie weapon upgrades.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{c3916ebc-bec0-4831-8254-b03eeda366c6}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif enough zombie Lunario, must earn collect enough souls to earn Zombie Lunario for upgrades of cursed weaponry.</heading>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="-411.208" relPosY="126.834" hideLink="false" uuid="{0aa1b647-4176-46a5-8aa5-923d1db1569b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Standard Pet Spider</heading>
+            <branch hideLink="false" uuid="{9f07d0cd-1306-4d28-8a43-2267295d5aa8}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Spider Pet Food</heading>
+                <branch hideLink="false" uuid="{7f5b1f7b-2311-4484-a7b1-b4b5d741330d}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough yen, feed spider flies and pig food.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{8b73decc-9397-4ac1-b71a-78506a67a491}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough yen, must catch flies and learn about pig food.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{5307fdc7-bbc0-4d15-9f19-f85056731b99}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Spider Grooming</heading>
+                <branch hideLink="false" uuid="{06800fd6-19d7-4903-b9d9-409aa807cede}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Francs, purchase hair trimmer / comb.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{e71202f0-ecb7-4f24-b9a8-b92317d753a9}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough Francs, earn Francs to purchase pig grooming kit.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{975fd309-fedd-40fc-91aa-6c24d47f85ba}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Spider Upgrades</heading>
+                <branch hideLink="false" uuid="{9fef364c-da13-404b-ab29-7c18236a275b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Lunario, uograde spider.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{d20c8162-433c-43e0-8b40-da782450dd27}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough Lunario, must earn Lunario through favors to Lunar goddess.</heading>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="-376.088" relPosY="-174.539" hideLink="false" uuid="{1441624a-9e08-481c-949c-ce2d37de248a}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Pet Spider</heading>
+            <branch hideLink="false" uuid="{4ae4cbcb-3af3-4e73-877e-0cccfba4822f}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Spider Pet Food</heading>
+                <branch hideLink="false" uuid="{f283be10-6ad4-42f7-b9dd-d638704e63b6}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Zombie Yen, feed spider undead roaches and zombie flies.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{43e95cf3-0d7d-48ae-9218-eccb183403de}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough zombie yen, must earn Zombie Yen, through Zomie Graveyard townsfolk chores.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{88f6c73a-864b-4677-8f95-b5b59c549cc2}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Spider Grooming</heading>
+                <branch hideLink="false" uuid="{c97e95f2-5c05-4299-92d9-88640a083b01}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Zombie Franc, purchase derotting serum for spider hair.</heading>
+                    <frame  frameType="Rectangle" penColor="#52684c" brushColor="#ffffff" padding="0" borderWidth="1" />
+                </branch>
+                <branch hideLink="false" uuid="{340e05dd-56c7-49b5-a1ad-57d56d991e6d}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough Zombie Francs, do favors for Graveyard Townsfolk.</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{2c45b279-7184-46c1-9aea-f4ba6ec7b2cd}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie Spider Upgrades</heading>
+                <branch hideLink="false" uuid="{25084c0c-510d-453f-8278-1657256d725e}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">If enough Zombie Lunario, Upgrade spider to next level undead spider status.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{1cd72a02-566b-4cf1-81d3-a30e4582c5f3}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Elsif not enough Lunario, collect souls to earn favor with Zombie Lunario.</heading>
+                </branch>
+            </branch>
+        </branch>
+        <branch relPosX="-150.974" relPosY="343.635" hideLink="false" uuid="{744b8fe4-8e00-4da5-9077-833cbc3fc01b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Ambiguous Sections</heading>
+            <branch hideLink="false" uuid="{ed3ce1ce-9d3c-4c41-9ec1-47466b39fb4b}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human meets zombie spider.</heading>
+                <branch hideLink="false" uuid="{f6060bdd-4809-4425-a703-3bca94297537}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human access Zombie Graveyards</heading>
+                </branch>
+                <branch hideLink="false" uuid="{8273f2e8-02e1-416c-a251-f41061cbed54}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human access Zombie Shoe Repair</heading>
+                </branch>
+                <branch hideLink="false" uuid="{2ef3e740-e963-4776-87df-d3365a7ef164}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Human access Zombie Cursed Armoury Shop</heading>
+                </branch>
+            </branch>
+            <branch hideLink="false" uuid="{3b25a8db-e217-4e4f-952d-aebe0b09d865}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie mets standard spider.</heading>
+                <branch hideLink="false" uuid="{e7962883-c7d2-4104-a395-1eb04a9cc223}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie access Human Hotels</heading>
+                </branch>
+                <branch hideLink="false" uuid="{6327424e-0af8-48e1-a2ba-ceef13ea8ccc}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie access human weapons shops.</heading>
+                </branch>
+                <branch hideLink="false" uuid="{d397104b-6435-4dd4-9851-30a9232980a1}"><heading  textMode="plainText"  fonthint="undef"  textColor="#000000">Zombie access Human shoe repair shops.</heading>
+                </branch>
+            </branch>
+        </branch>
+    </mapcenter><setting  key="/treeeditor/visible">false</setting><setting  key="/export/last/exportPath">/home/sarah/Downloads/RubyGames/Yumemoire/brainstorming/ZombieAccessData/images/Yumemoire.xml.png</setting><setting  key="/export/last/command"><![CDATA[exportImage("/home/sarah/Downloads/RubyGames/Yumemoire/brainstorming/ZombieAccessData/images/Yumemoire.xml.png")]]></setting><setting  key="/export/last/description">Image</setting>
+    <select>mc:0,bo:4,bo:0,bo:0</select>
+</vymmap>

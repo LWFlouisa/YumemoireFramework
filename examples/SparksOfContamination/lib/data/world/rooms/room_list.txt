@@ -1,0 +1,7 @@
+Garage
+Laundry
+Living Room
+Kitchen
+Hallway
+Bedroom
+Album Room

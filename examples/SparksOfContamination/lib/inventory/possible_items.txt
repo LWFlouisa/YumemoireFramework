@@ -1,0 +1,4 @@
+flashlight
+shovel
+hammer
+shirt

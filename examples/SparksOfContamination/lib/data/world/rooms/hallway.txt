@@ -1,0 +1,7 @@
++----------------------+
++----------------------+
+    @              Z
++-----------------------
++-----------------------
+>> There isn't enough room in this mansion for the two of us.
+<< Hey, do I look like a bandit to you?

@@ -214,3 +214,6 @@ cur_arr  = cur_arr.sample
 
 @chosen_room = pathways[cur_path][cur_opt][cur_row][cur_arr]
 ~~~
+
+## Intent And Purpose
+WHen used in tandum with the Enhanced Enemy UI process, you can thought of them like being taken by a spirit to a randomly chosen room.

@@ -2,6 +2,8 @@
 Object orientate now and not orientate later. Don't try to make this an actual room search algorithm just yet, as I'm try testing it.
 
 ## Room Selection Algorithm
+Note that the number correspond to room numbers, rather than randomly generated.
+
 ~~~ruby
 pathways = [ # pathway
 

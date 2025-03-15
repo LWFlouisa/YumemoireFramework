@@ -1,5 +1,5 @@
 # YumemoireFramework
-Object orientate now and not orientate later.
+Object orientate now and not orientate later. Don't try to make this an actual room search algorithm just yet, as I'm try testing it.
 
 ## Room Selection Algorithm
 ~~~ruby
